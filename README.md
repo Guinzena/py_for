@@ -1,12 +1,12 @@
 ## 🐍 Python - For
-- **[Ex01](https://github.com/Guinzena/py_if_elif_else/blob/main/ex01.py)** <h5>Create a program that counts down, to fireworks. </h5>
-- **[Ex02](https://github.com/Guinzena/py_if_elif_else/blob/main/ex02.py)** <h5>Create a program that prints all even numbers from 1 to 50. </h5>
-- **[Ex03](https://github.com/Guinzena/py_if_elif_else/blob/main/ex03.py)** <h5>Write a program that adds all multiples of 3, from 1 to 500. </h5>
-- **[Ex04](https://github.com/Guinzena/py_if_elif_else/blob/main/ex04.py)** <h5>Make a program that creates a multiplication table of the requested number.</h5>
-- **[Ex05](https://github.com/Guinzena/py_if_elif_else/blob/main/ex05.py)** <h5>Create a program that collects 6 numbers, and say how many pairs there are in the group and the results of their sum. </h5>
-- **[Ex06](https://github.com/Guinzena/py_if_elif_else/blob/main/ex06.py)** <h5>Create a program tha does a arithmetic progression, let the user choose the term and the ratio. </h5>
-- **[Ex07](https://github.com/Guinzena/py_if_elif_else/blob/main/ex07.py)** <h5>Write a program that takes a number and finds out if it is prime(divisible only 2 times).</h5>
-- **[Ex08](https://github.com/Guinzena/py_if_elif_else/blob/main/ex08.py)** <h5>Create a program that reads a sentence and checks if it is a palindrome. </h5>
-- **[Ex09](https://github.com/Guinzena/py_if_elif_else/blob/main/ex09.py)** <h5>Create a program that reads the date of bird od 6 people, and says how many are over the age of majority and how many are not(majority = 21 years old). </h5>
-- **[Ex10](https://github.com/Guinzena/py_if_elif_else/blob/main/ex10.py)** <h5>Create a program that collects the weight of 5 people, and say which is the biggest and the smallest weight. </h5>
-- **[Ex11](https://github.com/Guinzena/py_if_elif_else/blob/main/ex10.py)** <h5>Make a program that collets the age, name and gender of 4 participants. And say the average age of the group, the name and age of the oldest male, and how many females under 20 there are.</h5>
+- **[Ex01](https://github.com/Guinzena/py_for/blob/main/ex01.py)** <h5>Create a program that counts down, to fireworks. </h5>
+- **[Ex02](https://github.com/Guinzena/py_for/blob/main/ex02.py)** <h5>Create a program that prints all even numbers from 1 to 50. </h5>
+- **[Ex03](https://github.com/Guinzena/py_for/blob/main/ex03.py)** <h5>Write a program that adds all multiples of 3, from 1 to 500. </h5>
+- **[Ex04](https://github.com/Guinzena/py_for/blob/main/ex04.py)** <h5>Make a program that creates a multiplication table of the requested number.</h5>
+- **[Ex05](https://github.com/Guinzena/py_for/blob/main/ex05.py)** <h5>Create a program that collects 6 numbers, and say how many pairs there are in the group and the results of their sum. </h5>
+- **[Ex06](https://github.com/Guinzena/py_for/blob/main/ex06.py)** <h5>Create a program tha does a arithmetic progression, let the user choose the term and the ratio. </h5>
+- **[Ex07](https://github.com/Guinzena/py_for/blob/main/ex07.py)** <h5>Write a program that takes a number and finds out if it is prime(divisible only 2 times).</h5>
+- **[Ex08](https://github.com/Guinzena/py_for/blob/main/ex08.py)** <h5>Create a program that reads a sentence and checks if it is a palindrome. </h5>
+- **[Ex09](https://github.com/Guinzena/py_for/blob/main/ex09.py)** <h5>Create a program that reads the date of bird od 6 people, and says how many are over the age of majority and how many are not(majority = 21 years old). </h5>
+- **[Ex10](https://github.com/Guinzena/py_for/blob/main/ex10.py)** <h5>Create a program that collects the weight of 5 people, and say which is the biggest and the smallest weight. </h5>
+- **[Ex11](https://github.com/Guinzena/py_for/blob/main/ex11.py)** <h5>Make a program that collets the age, name and gender of 4 participants. And say the average age of the group, the name and age of the oldest male, and how many females under 20 there are.</h5>
